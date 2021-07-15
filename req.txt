@@ -1,0 +1,9 @@
+itertools
+collections
+sklearn
+matplotlib
+numpy
+opencv-python
+skimage
+matplotlib
+pandas
