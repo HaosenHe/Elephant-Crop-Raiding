@@ -362,3 +362,8 @@ def compare_walks(row, col, cropset, waterset, treeset, walkset1, walk2, walk3, 
     ax.set_yticks(np.arange(0, row, 1));
     plt.show()
 '''
+'''
+MIT License
+
+Copyright (c) [2021] [Haosen He]
+'''
