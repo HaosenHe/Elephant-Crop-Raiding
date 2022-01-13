@@ -70,8 +70,8 @@ def slicer(img, row, col):
    |／￣乀乀＼　                  |                    ／￣乀乀＼
     |　ー　ー \　 ／￣￣￣￣￣￣＼                      |　ー　ー \　           ／￣￣￣￣￣￣＼
     |　 ◉　◉ |  | Jiaran Diana\                  |_  |　 ◉　◉ |  _|      |_|Jiaran Diana \_|
-    \　　 ▱　/ /_ is the best!/   ==========>     __              __      __               __
-     ＼　　 イ　   \          /                    |   \　　 ▱　/ /_|      |  is the best!/  |
+    \　　 ▱　/ /_ best girl!  /   ==========>     __              __      __               __
+     ＼　　 イ　   \          /                    |   \　　 ▱　/ /_|      |  best girl!  /  |
      ／　　　\      ￣￣￣￣￣                           ＼　　 イ　            \          /
    |/　|　　  \                   |                     ／　　　\                ￣￣￣￣￣
    ￣                           ￣                |_   /　|　　   \  _|    |_               _|
@@ -361,4 +361,9 @@ def compare_walks(row, col, cropset, waterset, treeset, walkset1, walk2, walk3, 
     ax.set_xticks(np.arange(0, col, 1));
     ax.set_yticks(np.arange(0, row, 1));
     plt.show()
+'''
+'''
+MIT License
+
+Copyright (c) [2021] [Haosen He]
 '''

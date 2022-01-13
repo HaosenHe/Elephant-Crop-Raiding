@@ -442,3 +442,10 @@ def MW_2(cropset, treeset, hab, step, alpha, mgc, mgt, mgw):
     cropset = c_set
     treeset = t_set
     return locls
+
+
+'''
+MIT License
+
+Copyright (c) [2021] [Haosen He]
+'''

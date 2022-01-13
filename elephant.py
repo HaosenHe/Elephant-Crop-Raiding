@@ -71,3 +71,10 @@ class CRM_Elephant(Elephant):
                                                self.moving_cost), 1)[0]
         self.update_resources(self)
         self.walk = None
+
+
+'''
+MIT License
+
+Copyright (c) [2021] [Haosen He]
+'''
