@@ -21,7 +21,7 @@ When we focused solely on which terrain blocks the elephants of GNP visit and sp
 
 Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give [conservationists](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/conservationist) and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
 
-<h3> About this repository
+<h3> About this repository <h3>
 
 This repository contains the algorithms, scripts, and some of the plots we created for our research project.
 
